@@ -10,9 +10,7 @@ class App extends Component {
     
     return (
       <div className="App">
-      {
-        Array.from(word).map((c, i) => <CharacterCard value={c} key={i}/>)
-      }
+      Hello World
       </div>
     );
   }
