@@ -21,6 +21,11 @@
 .App-intro {
   font-size: large;
 }
+.text{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 300%;
+}
 .card {
   display: inline-block;
   text-align: center;
@@ -38,7 +43,7 @@
  }
 
  div.bg {
-  background-color: #F0F8FF ;
+  background-color: #FFF5EE ;
   }
 
 

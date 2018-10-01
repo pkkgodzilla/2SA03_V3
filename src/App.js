@@ -11,10 +11,16 @@ class App extends Component {
 
     return (
       <div className="bg">
+      
         <div className="App">
+        <div className="text">
+          Lab 03 - react
+          Naphisaporn Phakphrommin
+        </div>
+          
           <WordCard value="Pewpew" />
           <WordCard value="5835512098" />
-          Naphisaporn Phakphrommin
+          
         </div>
       </div>
       
