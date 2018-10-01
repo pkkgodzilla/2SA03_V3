@@ -10,8 +10,12 @@ class App extends Component {
   render() {
 
     return (
-      <div className="App">
-        <WordCard value="Pewpew" />
+      <div className="bg">
+        <div className="App">
+          <WordCard value="Pewpew" />
+          <WordCard value="5835512098" />
+          Naphisaporn Phakphrommin
+        </div>
       </div>
     );
   }

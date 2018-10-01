@@ -36,6 +36,13 @@
   background: #4682B4;
  }
 
+ div.bg {
+
+  background-color: #F0F8FF ;
+  
+  
+  }
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
