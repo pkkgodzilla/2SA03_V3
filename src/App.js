@@ -15,6 +15,9 @@ class App extends Component {
         <div className="App">
         <div className="text">
           Lab 03 - react
+          
+        </div>
+        <div className="text">
           Naphisaporn Phakphrommin
         </div>
           
